@@ -387,6 +387,8 @@ div h6 {
     }
 }
 
+
+/*This media query is not proper, Yet to be corrected.*/
 @media screen and (max-width: 1300px) {
 
     .footer {
