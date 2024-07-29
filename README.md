@@ -34,8 +34,7 @@ netflix-clone/
 │   │   └── logo.svg
 │   │   └── bg2.jpg
 │   └── videos/
-│       └── video-tv-in-0819.m4v
-│       └── video-devices-in.m4v
+│       └── video.m4v
 │
 ├── index.html
 ├── style.css
