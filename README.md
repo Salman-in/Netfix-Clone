@@ -61,5 +61,3 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 - Inspired by the official [Netflix](https://www.netflix.com) homepage.
 - [Google Fonts](https://fonts.google.com/) for custom fonts.
 ```
-
-This README covers the basics of your project, including installation instructions, usage guidelines, project structure, technologies used, and contribution guidelines. You can customize the sections further based on your specific needs.
