@@ -389,11 +389,12 @@ div h6 {
 
 
 /*This media query is not proper, Yet to be corrected.*/
-@media screen and (max-width: 1300px) {
+
+/* @media screen and (max-width: 1300px) {
 
     .footer {
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 25px;
     }
-}
+} */
