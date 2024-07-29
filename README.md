@@ -60,4 +60,3 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 
 - Inspired by the official [Netflix](https://www.netflix.com) homepage.
 - [Google Fonts](https://fonts.google.com/) for custom fonts.
-```
